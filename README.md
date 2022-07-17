@@ -1,4 +1,4 @@
-# detection-et-suivi-des-poisons-dans-les-videos-sous-marins
+# detection-et-suivi-des-espèces-dans-les-videos-sous-marins
 
 <<h1> This repository is just for results</h1>
 
