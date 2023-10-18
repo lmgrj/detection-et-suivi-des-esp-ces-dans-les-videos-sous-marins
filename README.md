@@ -7,6 +7,11 @@ Le travail principal de ce stage sera donc composé de deux grandes phases princ
 
 — Ensuite, nous abordons le problème de suivi d’espèces de poissons. L’apprentissage profond requiert des bases de données de grande taille pour une meilleure per- formance. Toutefois, les bases d’images de poissons disponibles sont de petite taille. Pour surmonter ce problème, nous utilisons l’approche d’apprentissage par transfert dans différentes stratégies tout en abordant diverses problématiques (choix de l’es- pace colorimétrique, élimination ou non d’arrière-plan, et manière d’augmentation artificielle de données).
 
+<iframe src="https://pdfview.io/viewer/Presentation-PFE.pptx.pdf" width="100%" height="800px"></iframe>
+
+[View the PDF]([https://github.com/your-username/your-repo/raw/main/path-to-your-pdf-file.pdf](https://github.com/lmgrj/detection-et-suivi-des-esp-ces-dans-les-videos-sous-marins/blob/main/Presentation-PFE.pptx.pdf))
+
+
 
 ![Capture](https://user-images.githubusercontent.com/54851310/193289414-2fdd824d-cb41-46ab-9461-cce2db39e5c8.PNG)
 ![image](https://user-images.githubusercontent.com/54851310/193421470-48ec92de-702e-4aaf-a5b1-46d1aaf27439.png)
